@@ -1,0 +1,5 @@
+rFMSRest:
+        url: "https://fmsextapi.scania.com"
+        username: username
+        password: "password"
+
